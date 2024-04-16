@@ -1,14 +1,5 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <style>
-      th, td {
-        border: 1px solid black;
-        border-radius: 10px;
-      }
-    </style>
-  </head>
-  <body>
+
 
 -----
 
@@ -38,9 +29,9 @@
 <tr>
  <td align="center" colspan="11"></td>
 </tr> 
-</table></body>
-</html>
+</table>
 
+</div>
 
 
 
