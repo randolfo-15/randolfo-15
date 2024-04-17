@@ -36,6 +36,15 @@
 </div>
 <div align="justify">
 <i> Me chamo Randolfo Augusto e sou natural de Belo Horizonte, formado em Filosofia pela UFMG em 2017. Atualmente sou <code>Estudante</code> de Engenharia da Computação da Faculdade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, no entanto estudo programação dês de 2018</a>.</i><br/>
+
+
+
+- 🐟   Sou Pisciano, portanto iludido por natureza. 
+- 🧙   Minhas Mídias prediletas são Animes, filmes de ficção e terror, e musicais. 
+- 💬   Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
+- 📫   Para me encontrar, esse é meu  <a href="mailto:ragnifico@yahoo.com.br" target="_blank" >e-mail</a> pessoal.
+- 📄   Veja meu Currículo para mais [informações]().
+
 </div>
 
 -----
@@ -69,4 +78,63 @@
 </div>
 
 
+-----
+
+<div>
+
+<img  width="80px" height="50px" alt="GIF" src="./image/icon/tools.gif"/>&nbsp; <u> Linguagens e ferramentas </u>
+ 
+
+<code><img height="32" src="./image/icon/bash.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/c.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/cpp.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/arduino.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/docker.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/css.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/html-5.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/gitlab.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/go-lang.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/java.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/javascript.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/matlab.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/mysql.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/unreal.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/sqlite.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/pitao.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/terraform.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/php.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/nodejs.png"/></code>&nbsp; 
+
+</div>
+
+-----
+
+<div align="center">
+
+```text
+          _____                    _____                    _____
+         /\    \                  /\    \                  /\    \
+        /::\    \                /::\    \                /::\    \
+       /::::\    \              /::::\    \              /::::\    \
+      /::::::\    \            /::::::\    \            /::::::\    \
+     /:::/\:::\    \          /:::/\:::\    \          /:::/\:::\    \
+    /:::/__\:::\    \        /:::/__\:::\    \        /:::/  \:::\    \
+   /::::\   \:::\    \      /::::\   \:::\    \      /:::/    \:::\    \
+  /::::::\   \:::\    \    /::::::\   \:::\    \    /:::/    / \:::\    \
+ /:::/\:::\   \:::\____\  /:::/\:::\   \:::\    \  /:::/    /   \:::\ ___\
+/:::/  \:::\   \:::|    |/:::/  \:::\   \:::\____\/:::/____/  ___\:::|    |
+\::/   |::::\  /:::|____|\::/    \:::\  /:::/    /\:::\    \ /\  /:::|____|
+ \/____|:::::\/:::/    /  \/____/ \:::\/:::/    /  \:::\    /::\ \::/    /
+       |:::::::::/    /            \::::::/    /    \:::\   \:::\ \/____/
+       |::|\::::/    /              \::::/    /      \:::\   \:::\____\
+       |::| \::/____/               /:::/    /        \:::\  /:::/    /
+       |::|  ~|                    /:::/    /          \:::\/:::/    /
+       |::|   |                   /:::/    /            \::::::/    /
+       \::|   |                  /:::/    /              \::::/    /
+        \:|___|                  \::/____/                \::/____/
+
+
+```                                        
+
+</div>
 
