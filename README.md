@@ -42,7 +42,6 @@
 
 ## Galeria
 
-<div align="center">
 <table>
 <tr>
 
@@ -66,7 +65,6 @@
 </tr>
 
 </table>
-</div>
 
 
 
