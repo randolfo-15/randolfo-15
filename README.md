@@ -42,29 +42,31 @@
 
 ## Galeria
 
+<div align="center">
 <table>
 <tr>
 
-<td><a href="https://github.com/randolfo-15/Agenda_CLI" target="_blank" ><img alt="GIF" src="./image/galery/agenda_exe.gif?raw=true" width="550px" height="500px"/></a>
+<td><a href="https://github.com/randolfo-15/Agenda_CLI" target="_blank" ><img alt="GIF" src="./image/galery/agenda_exe.gif" width="350px" height="300px"/></a>
 </td>
 
 
-<td><a href="https://github.com/randolfo-15/Lotofacil_GUI" target="_blank" ><img alt="GIF" src="./image/galery/loto.gif?raw=true" width="550px" height="500px"/></a>
+<td><a href="https://github.com/randolfo-15/Lotofacil_GUI" target="_blank" ><img alt="GIF" src="./image/galery/loto.gif" width="350px" height="300px"/></a>
 </td>
 
 </tr>    
 
 <tr>
 
-<td><a href="https://github.com/randolfo-15/Types" target="_blank" ><img alt="GIF" src="./image/galery/types.gif?raw=true" width="550px" height="500px"/></a>
+<td><a href="https://github.com/randolfo-15/Types" target="_blank" ><img alt="GIF" src="./image/galery/types.gif" width="350px" height="300px"/></a>
 </td>
 
-<td><a href="https://github.com/randolfo-15/Mosaicos" target="_blank" ><img alt="GIF" src="./image/galery/mosaicos.gif?raw=true" width="550px" height="500px"/></a>
+<td><a href="https://github.com/randolfo-15/Mosaicos" target="_blank" ><img alt="GIF" src="./image/galery/mosaicos.gif" width="350px" height="300px"/></a>
 </td>
 
 </tr>
 
 </table>
+</div>
 
 
 
