@@ -153,6 +153,16 @@
 </table>
 
 -----
+## Seja um ser humaninho legal!!, e me pague um café.
+
+<div align="center">
+
+<img  width="500px" height="239px" alt="GIF" src="./image/coffe.gif"/>
+
+<img  width="200px" height="239px" src="./image/IMG-20240418-WA0000.jpg"/>
+
+</div>
+_____ 
 
 <div align="center">
 
