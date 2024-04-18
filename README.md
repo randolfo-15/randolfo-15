@@ -128,6 +128,7 @@
 </div>
 
 -----
+
 <img height="40" alt="GIF" src="./image/lab_00.gif"/>   GitHub Stats:
 
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randolfo-15&theme=github_dark"/>
@@ -181,4 +182,5 @@
 ```                                        
 
 </div>
+
 
