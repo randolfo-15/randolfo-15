@@ -120,7 +120,7 @@
 
 <div>
 
-<img  width="80px" height="50px" alt="GIF" src="./image/polar.gif"/>&nbsp;Linguagens e ferramentas 
+<img  width="80px" height="50px" alt="GIF" src="./image/icon/tools.gif"/>&nbsp;Linguagens e ferramentas 
  
 
 <code><img height="32" src="./image/icon/bash.png"/></code>&nbsp; 
