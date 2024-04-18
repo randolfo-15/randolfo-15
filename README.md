@@ -120,8 +120,7 @@
 
 <div>
 
-<img  width="80px" height="50px" alt="GIF" src="./image/icon/tools.gif"/>&nbsp;Linguagens e ferramentas 
- 
+<p> <span style="color:orange"> Linguagens e Ferramentas </span>.</p>
 
 <code><img height="32" src="./image/icon/bash.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/c.png"/></code>&nbsp; 
