@@ -1,6 +1,6 @@
 <div align="center">
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Frandolfo-15&s=40&c=ffff00&bg=00000000&no=2&ff=digi&tb=Visitors%3A+&ta=)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Frandolfo-15&s=40&c=ff8214&bg=00000000&no=2&ff=digi&tb=Visitors%3A+&ta=)
 
 </div>
 
@@ -118,9 +118,9 @@
 
 -----
 
-<div>
+<div >
 
-<p> <span style="color:orange"> Linguagens e Ferramentas </span>.</p>
+<font color="#ffa500"  size=14>Linguagens e Ferramentas:</font>
 
 <code><img height="32" src="./image/icon/bash.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/c.png"/></code>&nbsp; 
