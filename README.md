@@ -54,7 +54,7 @@
 <tr> 
 
 <td>
-<img  width="150px" height="220px" alt="GIF" src="./image/robot.gif"/>
+<img  width="150px" height="320px" alt="GIF" src="./image/robot.gif"/>
 </td>
 
 <td>
