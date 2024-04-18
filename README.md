@@ -54,7 +54,7 @@
 <tr> 
 
 <td>
-<img  width="150px" height="320px" alt="GIF" src="./image/robot.gif"/>
+<img  width="150px" height="300px" alt="GIF" src="./image/robot.gif"/>
 </td>
 
 <td>
@@ -71,7 +71,6 @@
 - 🧙   Minhas Mídias prediletas são filmes de ficção, terror, e animes. 
 - 😍   Curto fazer trilha, e comer 🍝(comidas) exóticas. 
 - 💬   Adoro debates reflexivos.
-- 📫   Para me encontrar, esse é meu  <a href="mailto:ragnifico@yahoo.com.br" target="_blank" >e-mail</a> pessoal.
 - 📄   Veja meu Currículo para mais [informações]().
 
 </td>
