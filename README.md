@@ -39,19 +39,15 @@
 <div style="border: 2px solid;" align="center" >
 
 <table>
-<table>
-<th>
-<td>
+
+<div>
 <h4>
 <p>
 <i> Me chamo Randolfo Augusto e sou natural de Belo Horizonte, formado em Filosofia pela UFMG em 2017. Atualmente sou <code>Estudante</code> de Engenharia da Computação da Faculdade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, no entanto estudo programação dês de 2018</a>.</i><br/>
 </p>
 </h4>
-</td>
-</th>
+<div>
 
-</table>
-<table>
 <tr> 
 
 <td>
@@ -72,7 +68,6 @@
 
 </tr>
 
-</table>
 </table>
 
 </div>
