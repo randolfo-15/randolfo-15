@@ -20,18 +20,18 @@
 
 
 <div align="center"> 
-<a href="https://gitlab.com/randolfo-15" target="_blank">
-<img align="center" height="70" width="70" src="./image/icon/c_gitlab.png">
+
+<a href="mailto:ragnifico@yahoo.com.br" target="_blank">
+<img align="center" height="70" width="70" src="./image/icon/c_email.png">
 </a>
 
 <a href="https://vaporhole.xyz/~rag/" target="_blank">
 <img align="center" height="90" width="90" src="./image/icon/trem.png">
 </a>
 
-<a href="mailto:ragnifico@yahoo.com.br" target="_blank">
-<img align="center" height="110" width="110" src="./image/icon/c_email.png">
+<a href="https://gitlab.com/randolfo-15" target="_blank">
+<img align="center" height="110" width="110" src="./image/icon/c_gitlab.png">
 </a>
-
 
 <a href="https://wa.me/5531981059465">
 <img align="center"  height="90" width="90" src="./image/icon/c_zap.png">
