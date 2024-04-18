@@ -21,21 +21,25 @@
 
 <div align="center"> 
 <a href="https://gitlab.com/randolfo-15" target="_blank">
-<img align="center" height="84" width="84" src="./image/icon/c_gitlab.png">
+<img align="center" height="70" width="70" src="./image/icon/c_gitlab.png">
+</a>
+
+<a href="https://vaporhole.xyz/~rag/" target="_blank">
+<img align="center" height="90" width="90" src="./image/icon/trem.png">
 </a>
 
 <a href="mailto:ragnifico@yahoo.com.br" target="_blank">
-<img align="center" height="80" width="80" src="./image/icon/c_email.png">
+<img align="center" height="110" width="110" src="./image/icon/c_email.png">
 </a>
 
 
 <a href="https://wa.me/5531981059465">
-<img align="center"  height="80" width="80" src="./image/icon/c_zap.png">
+<img align="center"  height="90" width="90" src="./image/icon/c_zap.png">
 </a>
 
 
 <a  href="https://www.linkedin.com/in/randolfo-augusto-gonçalves" target=_blank>
-<img align="center"  height="80" width="80" src="./image/icon/c_lnk.png">
+<img align="center"  height="70" width="70" src="./image/icon/c_lnk.png">
 </a>
 
 </div>
