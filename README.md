@@ -65,7 +65,7 @@
 
 <h3>
 <p>
-<i> Me chamo Randolfo Augusto e sou natural de Belo Horizonte, formado em Filosofia pela UFMG em 2017. Atualmente sou <code>Estudante</code> de Engenharia da Computação da Faculdade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, no entanto estudo programação dês de 2018</a>.</i><br/>
+<i> Me chamo Randolfo Augusto e sou natural de Belo Horizonte, formado em Filosofia pela UFMG em 2017. Atualmente sou Estudante de Engenharia da Computação da Faculdade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, no entanto estudo programação dês de 2018</a>.</i><br/>
 </p>
 </h3>
 
@@ -131,20 +131,50 @@
 <code><img height="32" src="./image/icon/cpp.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/arduino.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/docker.png"/></code>&nbsp; 
+<code><img height="32" src="./image/icon/javascript.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/css.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/html-5.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/gitlab.png"/></code>&nbsp; 
-<code><img height="32" src="./image/icon/go-lang.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/java.png"/></code>&nbsp; 
-<code><img height="32" src="./image/icon/javascript.png"/></code>&nbsp; 
-<code><img height="32" src="./image/icon/matlab.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/mysql.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/unreal.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/sqlite.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/pitao.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/terraform.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/php.png"/></code>&nbsp; 
-<code><img height="32" src="./image/icon/nodejs.png"/></code>&nbsp; 
+
+
+<img src="https://img.shields.io/badge/Linux-Advanced-orange?logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-Advanced-orange?logo=bash"/>
+<img src="https://img.shields.io/badge/C-Advanced-orange"/>
+<img src="https://img.shields.io/badge/C++-Advanced-orange"/>
+<img src="https://img.shields.io/badge/CMake-Advanced-orange?logo=cmake"/>
+<img src="https://img.shields.io/badge/Sqlite-Advanced-orange?logo=sqlite"/>
+<br/>
+<img src="https://img.shields.io/badge/Python-Intermediary-blue?logo=Python"/>
+<img src="https://img.shields.io/badge/Java-Intermediary-blue?logo=java"/>
+<img src="https://img.shields.io/badge/Docker-Intermediary-blue?logo=docker"/>
+<img src="https://img.shields.io/badge/Unreal-Intermediary-blue?logo=unreal"/>
+<img src="https://img.shields.io/badge/Unit-Intermediary-blue?logo=unit"/>
+<img src="https://img.shields.io/badge/Mysql-Intermediary-blue?logo=mysql"/>
+<img src="https://img.shields.io/badge/C Sharp-Intermediary-blue?logo=csharp"/>
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-Basic-green?logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML5-Basic-green?logo=html"/>
+<img src="https://img.shields.io/badge/CSS-Basic-green?logo=css"/>
+<img src="https://img.shields.io/badge/AWS-Basic-green?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Terraform-Basic-green?logo=terraform"/>
+<img src="https://img.shields.io/badge/PHP-Basic-green?logo=php"/>
+<img src="https://img.shields.io/badge/Haskell-Basic-green?logo=haskell"/>
+<img src="https://img.shields.io/badge/Android-Basic-green?logo=android"/>
+<img src="https://img.shields.io/badge/Gradle-Basic-green?logo=gradle"/>
+<img src="https://img.shields.io/badge/Arduino-Basic-green?logo=arduino"/>
+<br />
+<img src="https://img.shields.io/badge/Clean%20Code-Following-magenta"/>
+<img src="https://img.shields.io/badge/UML-Following-magenta?logo=uml"/>
+<img src="https://img.shields.io/badge/CI/CD-Following-magenta"/>
+<img src="https://img.shields.io/badge/Open%20Source-Following-magenta?logo=opensourceinitiative"/>
+<br />
 
 </div>
 
