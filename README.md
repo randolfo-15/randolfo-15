@@ -38,7 +38,6 @@
 
 <div style="border: 2px solid;" align="center" >
 
-<table>
 
 <h3>
 <p>
@@ -46,6 +45,7 @@
 </p>
 </h3>
 
+<table>
 <tr> 
 
 <td>
