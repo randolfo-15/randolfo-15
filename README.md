@@ -1,10 +1,7 @@
 <div align="center">
-  
-<br>
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Frandolfo-15&s=40&c=ffff00&bg=00000000&no=2&ff=digi&tb=Visitors%3A+&ta=)
 
-<br>
 </div>
 
 -----
@@ -163,16 +160,22 @@
 
 <div align="center" >
 
+<table>
 
+<tr>
+<td>
 <a href="https://www.last.fm/pt/user/randoldo" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=randoldo&width=400"/></a>
 
-
-
+</td>
+<td>
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/randolfo-15?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=yellow) 
 
+</td>
 
+</tr>
 
+</table>
 
 
 </div>
