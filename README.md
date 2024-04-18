@@ -65,6 +65,7 @@
 </p>
 </h3>
 
+<h4>
 
 - 🥰   Tenho um caso de amor eterno com C++
 - 🐟   Sou Pisciano, portanto iludido por natureza. 
@@ -72,6 +73,8 @@
 - 😍   Curto fazer trilha, e comer 🍝(comidas) exóticas. 
 - 💬   Adoro debates reflexivos.
 - 📄   Veja meu Currículo para mais [informações]().
+
+</h4>
 
 </td>
 
