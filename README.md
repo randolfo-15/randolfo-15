@@ -223,7 +223,7 @@
 </div>
 
 -----
-## Seja um ser humaninho legal!!, e me pague um café.
+## Contribuições: 
 
 <div align="center">
 
