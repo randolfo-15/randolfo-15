@@ -157,7 +157,7 @@
 
 <div align="center">
 
-<table style="border: 0px">
+<table border="1" cellspacing="0" rules="none">
 
 <tr>
 <td><img  width="500px" height="239px" alt="GIF" src="./image/coffe.gif"/></td>
