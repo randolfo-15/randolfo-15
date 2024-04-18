@@ -172,7 +172,7 @@
 <br />
 <img src="https://img.shields.io/badge/Clean%20Code-Following-magenta"/>
 <img src="https://img.shields.io/badge/UML-Following-magenta?logo=uml"/>
-<img src="https://img.shields.io/badge/CI/CD-Following-magenta"/>
+<img src="https://img.shields.io/badge/CI/CD-Following-magenta?logo=gitlab"/>
 <img src="https://img.shields.io/badge/Open%20Source-Following-magenta?logo=opensourceinitiative"/>
 <br />
 
