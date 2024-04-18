@@ -39,7 +39,7 @@
 <div style="border: 2px solid;" align="center" >
 
 <table>
-
+<table>
 <th>
 <td>
 <h4>
@@ -72,6 +72,7 @@
 
 </tr>
 
+</table>
 </table>
 
 </div>
