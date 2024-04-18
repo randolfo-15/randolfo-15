@@ -2,7 +2,7 @@
   
 <br>
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Frandolfo-15&s=60&c=ffff00&bg=00000000&no=2&ff=digi&tb=Visitors%3A+&ta=)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Frandolfo-15&s=40&c=ffff00&bg=00000000&no=2&ff=digi&tb=Visitors%3A+&ta=)
 
 <br>
 </div>
@@ -162,7 +162,6 @@
 </div>
 
 <div align="center" >
-<table>
 
 
 <a href="https://www.last.fm/pt/user/randoldo" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=randoldo&width=400"/></a>
