@@ -32,20 +32,40 @@
 </table>
 </div>
 
-
 </div>
-<div align="justify">
+
+<div style="border: 2px solid;" >
+
+<p>
 <i> Me chamo Randolfo Augusto e sou natural de Belo Horizonte, formado em Filosofia pela UFMG em 2017. Atualmente sou <code>Estudante</code> de Engenharia da Computação da Faculdade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, no entanto estudo programação dês de 2018</a>.</i><br/>
+</p>
 
+<table>
 
+<tr> 
 
+<td>
+<img  width="100px" height="170px" alt="GIF" src="./image/robot.gif"/>
+</td>
+
+<td>
+
+- 🥰   Tenho um caso de amor eterno com C++
 - 🐟   Sou Pisciano, portanto iludido por natureza. 
-- 🧙   Minhas Mídias prediletas são Animes, filmes de ficção e terror, e musicais. 
-- 💬   Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.
+- 🧙   Minhas Mídias prediletas são filmes de ficção, terror, e animes. 
+- 😍   Curto fazer trilha, e comer 🍝(comidas) exóticas. 
+- 💬   Adoro debates reflexivas.
 - 📫   Para me encontrar, esse é meu  <a href="mailto:ragnifico@yahoo.com.br" target="_blank" >e-mail</a> pessoal.
 - 📄   Veja meu Currículo para mais [informações]().
 
+</td>
+
+</tr>
+
+</table>
+
 </div>
+
 
 -----
 
@@ -82,7 +102,7 @@
 
 <div>
 
-<img  width="80px" height="50px" alt="GIF" src="./image/icon/tools.gif"/>&nbsp; <u> Linguagens e ferramentas </u>
+<img  width="80px" height="50px" alt="GIF" src="./image/polar.gif"/>&nbsp;Linguagens e ferramentas 
  
 
 <code><img height="32" src="./image/icon/bash.png"/></code>&nbsp; 
@@ -106,6 +126,30 @@
 <code><img height="32" src="./image/icon/nodejs.png"/></code>&nbsp; 
 
 </div>
+
+-----
+<img height="40" alt="GIF" src="./image/lab_00.gif"/>   GitHub Stats:
+
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randolfo-15&theme=github_dark"/>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=randolfo-15&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=randolfo-15&theme=github_dark"/>
+</div>
+
+-----
+
+<div>
+<div>
+<details>
+<summary><img height="40" alt="GIF" src="./image/music.gif"/> Rag - som</summary>
+</details>
+</div>
+<table>
+<tr><td>
+
+<a href="https://www.last.fm/pt/user/randoldo" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=randoldo&width=400"/></a>
+
+<tr><td>
+</table>
 
 -----
 
