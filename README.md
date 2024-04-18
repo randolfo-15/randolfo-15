@@ -120,7 +120,7 @@
 
 <div >
 
-<font color="#ffa500"  size=14>Linguagens e Ferramentas:</font>
+## Linguagens e Ferramentas:
 
 <code><img height="32" src="./image/icon/bash.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/c.png"/></code>&nbsp; 
@@ -145,8 +145,8 @@
 </div>
 
 -----
+## Github Status:
 
-<img height="40" alt="GIF" src="./image/lab_00.gif"/>   GitHub Stats:
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randolfo-15&theme=github_dark"/>
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=randolfo-15&theme=github_dark"/>
