@@ -230,8 +230,8 @@
 <table>
 
 <tr>
-<td><img  width="200px" height="239px" src="./image/IMG-20240418-WA0000.jpg"/></td>
 <td><img  width="500px" height="239px" alt="GIF" src="./image/coffe.gif?raw=true"/></td>
+<td><img  width="200px" height="239px" src="./image/IMG-20240418-WA0000.jpg?raw=true"/></td>
 </tr>
 </table>
 
