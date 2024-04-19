@@ -227,8 +227,7 @@
 </div>
 
 -----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=280&lines=Contribui%C3%A7%C3%B5es)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=250&lines=Contribui%C3%A7%C3%B5es)](https://git.io/typing-svg)
 
 <div align="center">
 
