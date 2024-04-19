@@ -92,7 +92,9 @@
 
 
 -----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&random=false&width=435&lines=Galeria)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=150&lines=Galeria)](https://git.io/typing-svg)
+
 
 <div align="center">
 <table>
