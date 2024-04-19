@@ -48,6 +48,8 @@
 
 
 ------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=100&lines=Rag)](https://git.io/typing-svg)
+
 
 <div style="border: 2px solid;" align="center" >
 
@@ -90,8 +92,7 @@
 
 
 -----
-
-## Galeria
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&random=false&width=435&lines=Galeria)](https://git.io/typing-svg)
 
 <div align="center">
 <table>
@@ -124,7 +125,8 @@
 
 <div >
 
-## Linguagens e Ferramentas:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=435&lines=Linguagens+e+Ferramentas%3A)](https://git.io/typing-svg)
+
 
 <code><img height="32" src="./image/icon/bash.png"/></code>&nbsp; 
 <code><img height="32" src="./image/icon/c.png"/></code>&nbsp; 
@@ -179,7 +181,7 @@
 </div> 
 
 -----
-## Github Status:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=435&lines=Github+Status)](https://git.io/typing-svg)
 
 <div>
 <img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randolfo-15&theme=github_dark"/>
@@ -194,7 +196,7 @@
 <details>
 <summary><img height="40" alt="GIF" src="./image/music.gif"/> 
 
-## Rag - som
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=180&lines=Rag+-+som)](https://git.io/typing-svg)
 
 </summary>
 </details>
@@ -223,7 +225,8 @@
 </div>
 
 -----
-## Contribuições: 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=280&lines=Contribui%C3%A7%C3%B5es)](https://git.io/typing-svg)
+
 
 <div align="center">
 
