@@ -198,7 +198,7 @@
 <details>
 <summary><img height="40" alt="GIF" src="./image/music.gif"/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=180&lines=Rag+-+som)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=F79B22&repeat=false&random=false&width=170&lines=+Rag+-+Som)](https://git.io/typing-svg)
 
 </summary>
 </details>
