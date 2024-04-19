@@ -228,7 +228,7 @@
 <div align="center">
 
 
-<td><img  width=325 height="239" alt="GIF" src="./image/coffe.gif?raw=true"/></td>
+<td><img  width=500 height="239" alt="GIF" src="./image/coffe.gif?raw=true"/></td>
 <td><img  width="200px" height="239px" src="./image/IMG-20240418-WA0000.jpg?raw=true"/></td>
 
 </div>
