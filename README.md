@@ -204,7 +204,8 @@
 
 <tr>
 <td>
-<a href="https://www.last.fm/pt/user/randoldo" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=randoldo&width=400"/></a>
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=randoldo&bg_color=FF8C00&footer_style=wave)
 
 </td>
 <td>
