@@ -153,7 +153,7 @@
 <img src="https://img.shields.io/badge/Java-Intermediary-blue?logo=java"/>
 <img src="https://img.shields.io/badge/Docker-Intermediary-blue?logo=docker"/>
 <img src="https://img.shields.io/badge/Unreal-Intermediary-blue?logo=unreal"/>
-<img src="https://img.shields.io/badge/Unit-Intermediary-blue?logo=unit"/>
+<img src="https://img.shields.io/badge/Unity-Intermediary-blue?logo=unity"/>
 <img src="https://img.shields.io/badge/Mysql-Intermediary-blue?logo=mysql"/>
 <img src="https://img.shields.io/badge/C Sharp-Intermediary-blue?logo=csharp"/>
 <br/>
